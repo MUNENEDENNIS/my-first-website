@@ -2,7 +2,7 @@
 #### This is my first website {Date of current version}
 #### By **Dennis Munene**
 ## Description
-{My very first website whch I created with help from Moringa School}
+My very first website whch I created with help from Moringa School
 ## Technologies Used
 HTML
 ## Support and contact details
